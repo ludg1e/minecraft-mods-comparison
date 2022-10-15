@@ -5,7 +5,6 @@ These comparisons have been made mostly due to my indecision (and later petition
 
 ------------------------------
 
-
 ## Available comparisons
 + Bugfixing mods
 
